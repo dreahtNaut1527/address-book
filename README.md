@@ -10,11 +10,12 @@
 
 ###
 
-<p align="left">Node JS: https://nodejs.org/en<br>Go Programming: https://go.dev/</p>
+-Node JS: https://nodejs.org/en
+-Go Programming: https://go.dev/
 
 ###
 
-<h2 align="left">Instruction</h2>
+<h2 align="left">Instructions:</h2>
 
 ###
 
