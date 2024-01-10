@@ -1,4 +1,4 @@
-import { Divider, Form, Input, InputNumber, Modal, notification } from 'antd';
+import { Divider, Form, Input, Modal, notification } from 'antd';
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import PhoneInput from "react-phone-input-2";
