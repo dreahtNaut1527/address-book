@@ -1,6 +1,6 @@
 # How to run the program
 
-### Download and Install NodeJS and GoLang
+**Download and Install NodeJS and GoLang**
 
 ###
 
