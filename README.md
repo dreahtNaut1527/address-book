@@ -10,8 +10,8 @@
 
 ###
 
--Node JS: https://nodejs.org/en
--Go Programming: https://go.dev/
+* Node JS: https://nodejs.org/en
+* *Go Programming: https://go.dev/
 
 ###
 
